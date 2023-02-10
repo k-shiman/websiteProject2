@@ -1,4 +1,4 @@
-# Portfolio HTML/CSS website 
+# HTML/CSS website 
 
 
 This website was written based on a psd website layout file.
